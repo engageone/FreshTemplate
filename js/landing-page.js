@@ -56,7 +56,7 @@ $(document).ready(function() {
     /**
      * Initialise promos with settings defined in settings.js
      */
-    Promos.initialise();
+    //Promos.initialise();
 
     /**
      * Initialise volume slider
