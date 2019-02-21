@@ -40,7 +40,7 @@
 }
 
 .top-wrapper {
-    background: #333 url("../images/background_tile.png");
+    background:block;
 }
 
 .fullscreen .top-wrapper {
