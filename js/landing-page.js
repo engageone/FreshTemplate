@@ -746,12 +746,12 @@ var Promos = {
              * @param {object} promo the promo area object
              */
             $.each(promos, function generatePromoItem(name, promo) {
-                var item = $("<div class='promo__item'></div>"),
-                    link = $("<a href='#' class='promo__link jsPromoLink'></a>"),
+               **// var item = $("<div class='promo__item'></div>"),
+                  var item =   link = $("<a href='#' class='promo__link jsPromoLink'></a>"),
                     image = $("<div class='promo__image'></div>"),
                     label = $("<span class='promo__label sr-only'></span>");
 
-               **// item.addClass("promo__item--" + (i + 1));
+                item.addClass("promo__item--" + (i + 1));
                 link.data("promo", name);
                image.css("background-image", "url(" + promo[area.toLowerCase() + "Image"] + ")");
                 label.text(promo.label);
