@@ -751,7 +751,7 @@ var Promos = {
                     image = $("<div class='promo__image'></div>"),
                     label = $("<span class='promo__label sr-only'></span>");
 
-                item.addClass("promo__item--" + (i + 1));
+               **// item.addClass("promo__item--" + (i + 1));
                 link.data("promo", name);
                image.css("background-image", "url(" + promo[area.toLowerCase() + "Image"] + ")");
                 label.text(promo.label);
