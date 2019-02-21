@@ -757,7 +757,7 @@ var Promos = {
                 label.text(promo.label);
 
                 image.append(label);
-                **//link.append(image);
+                link.append(image);
                 item.append(link);
                 $("#jsPromoContainer" + area).append(item);
 
