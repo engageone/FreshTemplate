@@ -753,11 +753,11 @@ var Promos = {
 
                 item.addClass("promo__item--" + (i + 1));
                 link.data("promo", name);
-                image.css("background-image", "url(" + promo[area.toLowerCase() + "Image"] + ")");
+               **// image.css("background-image", "url(" + promo[area.toLowerCase() + "Image"] + ")");
                 label.text(promo.label);
 
                 image.append(label);
-                link.append(image);
+                **//link.append(image);
                 item.append(link);
                 $("#jsPromoContainer" + area).append(item);
 
