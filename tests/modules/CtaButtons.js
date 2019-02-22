@@ -13,6 +13,7 @@
                     "card": "d1b4d742",
                     "label": "Contact",
                     "icon": "contact"
+                    "text":"contact <a href=\"http://www.google.com\"></a> "
                 },
                 "button2": {
                     "card": "d1b4d742",
@@ -36,7 +37,7 @@
                     "icon": "share"
                 }
             });
-
+            
             var buttons = $(".jsCtaButton");
             assert.equal(5, buttons.length);
 
