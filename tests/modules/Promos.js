@@ -16,8 +16,8 @@
                     "trackingName": "promo1",
                     "url": "http://example.com/",
                     "label": "Promo (Top)",
-                    "desktopImage": "./images/1mg321.png",
-                    "mobileImage": "./images/1mg321.png"
+                    "desktopImage": "./images/wipro1.png",
+                    "mobileImage": "./images/wipro1.png"
                 },
                 "promo2": {
                     "trackingName": "promo2",
@@ -50,8 +50,8 @@
             var desktopPromoImages = $("#jsPromoContainerDesktop .promo__image"),
                 mobilePromoImages = $("#jsPromoContainerMobile .promo__image");
 
-            assert.ok($(desktopPromoImages[0]).css("background-image").match(/img321\.png/) !== null);
-            assert.ok($(mobilePromoImages[0]).css("background-image").match(/img321\.png/) !== null);
+            assert.ok($(desktopPromoImages[0]).css("background-image").match(/wipro1\.png/) !== null);
+            assert.ok($(mobilePromoImages[0]).css("background-image").match(/wipro1\.png/) !== null);
             assert.ok($(desktopPromoImages[1]).css("background-image").match(/img321\.png/) !== null);
             assert.ok($(mobilePromoImages[1]).css("background-image").match(/img321\.png/) !== null);
 
