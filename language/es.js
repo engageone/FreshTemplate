@@ -36,7 +36,8 @@ var Translations = {
         "button1": {
             "card": "7b480c70"
             "label": "Botón 1",
-            "icon": "contact"
+            "icon": "contact",
+             "url": "https://www.wipro.com/en-IN/contact-wipro/"
         },
         "button2": {
             "card": "7b480c70",
@@ -54,7 +55,7 @@ var Translations = {
             "icon": "save"
         },
         "button5": {
-            "url": "https://www.wipro.com/en-IN/contact-wipro/",
+            "url": "http://example.com/",
             "label": "Botón 5",
             "icon": "share"
         }
