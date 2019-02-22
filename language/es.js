@@ -42,7 +42,8 @@ var Translations = {
         "button2": {
             "card": "7b480c70",
             "label": "Botón 2",
-            "icon": "website"
+            "icon": "website",
+             "url":"https://www.wipro.com/"
         },
         "button3": {
             "card": "7b480c70",
