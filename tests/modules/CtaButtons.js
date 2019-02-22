@@ -6,7 +6,7 @@
 
         QUnit.test("render", function(assert) {
             var ctaContainer = $("<div class='jsCtaContainer cta--1'><div>Test</div></div>");
-            $("body").append(ctaContainer);
+            $("body").appendTo(ctaContainer);
 
             CtaButtons.render({
                 "button1": {
