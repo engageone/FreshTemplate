@@ -16,7 +16,7 @@
                     "trackingName": "promo1",
                     "url": "http://example.com/",
                     "label": "Promo (Top)",
-                    "desktopImage": "./images/promo_portrait.png",
+                    "desktopImage": "./images/wipro1.png",
                     "mobileImage": "./images/promo_landscape.png"
                 },
                 "promo2": {
