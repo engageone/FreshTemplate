@@ -68,14 +68,14 @@ var Translations = {
             "trackingName": "promo1",
             "url": "http://example.com/es",
             "label": "Promo (Top)",
-            "desktopImage": "./images/img321.png",
+            "desktopImage": "./images/wipro1.png",
             "mobileImage": "./images/promo_landscape.png"
         },
         "promo2": {
             "trackingName": "promo2",
             "url": "http://example.com/es",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/img321.png",
+            "desktopImage": "./images/wipro11.png",
             "mobileImage": "./images/promo_landscape.png"
         }
     },
