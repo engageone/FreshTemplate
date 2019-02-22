@@ -23,8 +23,8 @@
                     "trackingName": "promo2",
                     "url": "http://example.com/",
                     "label": "Promo (Bottom)",
-                    "desktopImage": "./images/promo_portrait2.png",
-                    "mobileImage": "./images/promo_landscape2.png"
+                    "desktopImage": "./images/img321.png",
+                    "mobileImage": "./images/img321.png"
                 }
             });
 
@@ -52,8 +52,8 @@
 
             assert.ok($(desktopPromoImages[0]).css("background-image").match(/img321\.png/) !== null);
             assert.ok($(mobilePromoImages[0]).css("background-image").match(/img321\.png/) !== null);
-            assert.ok($(desktopPromoImages[1]).css("background-image").match(/promo_portrait2\.png/) !== null);
-            assert.ok($(mobilePromoImages[1]).css("background-image").match(/promo_landscape2\.png/) !== null);
+            assert.ok($(desktopPromoImages[1]).css("background-image").match(/img321\.png/) !== null);
+            assert.ok($(mobilePromoImages[1]).css("background-image").match(/img321\.png/) !== null);
 
             var desktopPromoLabels = $("#jsPromoContainerDesktop .promo__label"),
                 mobilePromoLabels = $("#jsPromoContainerMobile .promo__label");
