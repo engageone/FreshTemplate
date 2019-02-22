@@ -40,7 +40,7 @@
             });
             
             var buttons = $(".jsCtaButton");
-           // assert.equal(5, buttons.length);
+           assert.equal(5, buttons.length);
 
             assert.equal("button1", $(buttons[0]).data("button"));
             assert.equal("button2", $(buttons[1]).data("button"));
@@ -64,7 +64,7 @@
             assert.equal("Share", $(labels[4]).text());
 
             assert.notOk(ctaContainer.hasClass("cta--1"));
-            assert.ok(ctaContainer.hasClass("cta--5"));
+            assert.notok(ctaContainer.hasClass("cta--5"));
 
             ctaContainer.remove();
         });
