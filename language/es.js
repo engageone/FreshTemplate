@@ -43,7 +43,7 @@ var Translations = {
             "card": "7b480c70",
             "label": "Botón 2",
             "icon": "website",
-             "link":"href=http://www.wipro.com/"
+             "link":"http://www.wipro.com/"
         },
         "button3": {
             "card": "7b480c70",
