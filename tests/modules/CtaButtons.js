@@ -10,26 +10,22 @@
 
             CtaButtons.render({
                 "button1": {
-                    "url": "http://example.com/",
                     "card": "d1b4d742",
                     "label": "Contact",
                     "icon": "contact"
                 },
                 "button2": {
-                    "url": "http://example.com/",
                     "card": "d1b4d742",
                     "label": "Website",
                     "icon": "website"
                     
                 },
                 "button3": {
-                    "url": "http://example.com/",
                     "card": "d1b4d742",
                     "label": "Email",
                     "icon": "email"
                 },
                 "button4": {
-                    "url": "http://example.com/",
                     "card": "d1b4d742",
                     "label": "Save",
                     "icon": "save"
