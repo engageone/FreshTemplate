@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Prepared for",
 
-    "CopyrightText": "Copyright " + Utils.getFullYear() + " Client Name",
+    "CopyrightText": "Copyright " + Utils.getFullYear() + " Rapids Business",
     "PoweredByFooterText": "Powered by",
     "HelpFooterText": "Help",
     "PrivacyPolicyFooterText": "Privacy Policy",
