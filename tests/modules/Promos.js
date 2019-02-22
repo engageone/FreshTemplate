@@ -51,7 +51,7 @@
                 mobilePromoImages = $("#jsPromoContainerMobile .promo__image");
 
             assert.ok($(desktopPromoImages[0]).css("background-image").match(/img321\.png/) !== null);
-            assert.ok($(mobilePromoImages[0]).css("background-image").match(/promo_landscape\.png/) !== null);
+            assert.ok($(mobilePromoImages[0]).css("background-image").match(/img321\.png/) !== null);
             assert.ok($(desktopPromoImages[1]).css("background-image").match(/promo_portrait2\.png/) !== null);
             assert.ok($(mobilePromoImages[1]).css("background-image").match(/promo_landscape2\.png/) !== null);
 
