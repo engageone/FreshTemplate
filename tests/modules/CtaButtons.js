@@ -12,8 +12,7 @@
                 "button1": {
                     "card": "d1b4d742",
                     "label": "Contact",
-                    "icon": "contact",
-                    "url": "https://www.wipro.com/en-IN/contact-wipro/"                  
+                    "icon": "contact"
                 },
                 "button2": {
                     "card": "d1b4d742",
