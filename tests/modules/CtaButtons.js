@@ -19,7 +19,7 @@
                     "card": "d1b4d742",
                     "label": "Website",
                     "icon": "website",
-                    "url":"http://www.wipro.com/"
+                    "url":"https://www.wipro.com/"
                     
                 },
                 "button3": {
@@ -33,7 +33,7 @@
                     "icon": "save"
                 },
                 "button5": {
-                    "url": "http://example.com/",
+                    "url": "https://example.com/",
                     "label": "Share",
                     "icon": "share"
                 }
@@ -63,8 +63,8 @@
             assert.equal("Save", $(labels[3]).text());
             assert.equal("Share", $(labels[4]).text());
 
-            assert.ok(ctaContainer.hasClass("cta--1"));
-           // assert.ok(ctaContainer.hasClass("cta--5"));
+            assert.notOk(ctaContainer.hasClass("cta--1"));
+            assert.ok(ctaContainer.hasClass("cta--5"));
 
             ctaContainer.remove();
         });
