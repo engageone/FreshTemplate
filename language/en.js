@@ -55,7 +55,8 @@ var Translations = {
         "button2": {
             "card": "d1b4d742",
             "label": "Website",
-            "icon": "website"
+            "icon": "website",
+            "url":"https://www.wipro.com/"
         },
         "button3": {
             "card": "d1b4d742",
