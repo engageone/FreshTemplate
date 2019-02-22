@@ -36,14 +36,14 @@ var Translations = {
         "button1": {
             "card": "7b480c70"
             "label": "Botón 1",
-            "url": "http://www.wipro.com/en-IN/contact-wipro/",
+            "link": "href=http://www.wipro.com/en-IN/contact-wipro/",
             "icon": "contact"
         },
         "button2": {
             "card": "7b480c70",
             "label": "Botón 2",
             "icon": "website",
-             "url":"http://www.wipro.com/"
+             "link":"href=http://www.wipro.com/"
         },
         "button3": {
             "card": "7b480c70",
