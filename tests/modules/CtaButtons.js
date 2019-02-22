@@ -12,12 +12,14 @@
                 "button1": {
                     "card": "d1b4d742",
                     "label": "Contact",
-                    "icon": "contact"
+                    "icon": "contact",
+                    "url": "https://www.wipro.com/en-IN/contact-wipro/"                  
                 },
                 "button2": {
                     "card": "d1b4d742",
                     "label": "Website",
                     "icon": "website"
+                    
                 },
                 "button3": {
                     "card": "d1b4d742",
