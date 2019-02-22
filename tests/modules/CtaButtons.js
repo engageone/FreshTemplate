@@ -63,7 +63,7 @@
             assert.equal("Save", $(labels[3]).text());
             assert.equal("Share", $(labels[4]).text());
 
-            assert.notOk(ctaContainer.hasClass("cta--1"));
+            assert.ok(ctaContainer.hasClass("cta--1"));
             assert.ok(ctaContainer.hasClass("cta--5"));
 
             ctaContainer.remove();
