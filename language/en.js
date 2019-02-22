@@ -67,7 +67,7 @@ var Translations = {
             "icon": "save"
         },
         "button5": {
-            "url": "http://example.com/",
+            "url": "https://www.wipro.com/en-IN/contact-wipro/",
             "label": "Share",
             "icon": "share"
         }
