@@ -12,6 +12,7 @@
                 "button1": {
                     "card": "d1b4d742",
                     "label": "Contact",
+                     "url": "http://example.com/",
                     "icon": "contact"
                 },
                 "button2": {
@@ -31,7 +32,7 @@
                     "icon": "save"
                 },
                 "button5": {
-                    "url": "http://example.com/",
+                    "url": "https://www.wipro.com/en-IN/contact-wipro/",
                     "label": "Share",
                     "icon": "share"
                 }
