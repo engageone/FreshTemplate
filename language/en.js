@@ -49,7 +49,7 @@ var Translations = {
         "button1": {
             "card": "d1b4d742",
             "label": "Contact",
-             "url": "http://www.wipro.com/en-IN/contact-wipro/",
+             "link": "href=http://www.wipro.com/en-IN/contact-wipro/",
             "icon": "contact"
          
         },
@@ -57,7 +57,7 @@ var Translations = {
             "card": "d1b4d742",
             "label": "Website",
             "icon": "website",
-            "url":"http://www.wipro.com/"
+            "link":"href=http://www.wipro.com/"
         },
         "button3": {
             "card": "d1b4d742",
