@@ -10,13 +10,13 @@
 
             CtaButtons.render({
                 "button1": {
-                    "card": "d1b4d742",
+                   // "card": "d1b4d742",
                     "label": "Contact",
                      "url": "http://www.wipro.com/en-IN/contact-wipro/",
                     "icon": "contact"
                 },
                 "button2": {
-                    "card": "d1b4d742",
+                  //  "card": "d1b4d742",
                     "label": "Website",
                     "icon": "website",
                     "url":"https://www.wipro.com/"
@@ -41,8 +41,8 @@
             
             var buttons = $(".jsCtaButton");
            assert.equal(5, buttons.length);
-            assert.equal(1, buttons.length);
-            assert.equal(2,buttons.length);
+           
+            
 
             assert.equal("button1", $(buttons[0]).data("button"));
             assert.equal("button2", $(buttons[1]).data("button"));
