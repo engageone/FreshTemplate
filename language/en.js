@@ -47,14 +47,14 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "d1b4d742",
+            //"card": "d1b4d742",
             "label": "Contact",
              "url": "http://www.wipro.com/en-IN/contact-wipro/",
             "icon": "contact"
          
         },
         "button2": {
-            "card": "d1b4d742",
+            //"card": "d1b4d742",
             "label": "Website",
             "icon": "website",
             "url":"http://www.wipro.com/"
