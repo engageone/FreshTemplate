@@ -70,7 +70,7 @@ var Translations = {
             "icon": "save"
         },
         "button5": {
-            "url": "http://example.com/",
+            "url": "https://facebook.com/share?url=https://preprod.rtcvid.net/eov_wipro_billing/",
             "label": "Share",
             "icon": "share"
         }
