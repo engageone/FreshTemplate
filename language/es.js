@@ -34,13 +34,13 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "7b480c70"
+           // "card": "7b480c70"
             "label": "Botón 1",
             "url": "http://www.wipro.com/en-IN/contact-wipro/",
             "icon": "contact"
         },
         "button2": {
-            "card": "7b480c70",
+            //"card": "7b480c70",
             "label": "Botón 2",
             "icon": "website",
              "url":"http://www.wipro.com/"
